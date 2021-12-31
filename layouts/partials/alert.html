@@ -1,0 +1,18 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.alert.alert.enable }}
+{{ with $data.alert.alert }}
+{{"<!-- Alert Banner-->" | safeHTML}}
+<section class="alertBanner">
+	<div class="alert alert2 alert-msm alert-dismissible2 fade2 show" role="alert"> 
+		<a href="{{ .link }}">
+			<strong>{{ .title | markdownify }} </strong> {{.divider}} <strong style="text-transform: uppercase">{{ .content | markdownify }}</strong>
+		</a>
+		<button type="button" class="close" data-dismiss="alert" aria-label="Close">
+		  <span aria-hidden="true">&times;</span>
+		</button>
+	  </div>
+</section>
+{{"<!-- /Alert Banner-->" | safeHTML}}
+{{end}}
+{{end}}

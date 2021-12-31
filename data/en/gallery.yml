@@ -1,0 +1,21 @@
+#################################### gallery ###############################
+gallery:
+  enable : true
+  title : Our Gallery
+  gallery_item :
+    # gallery item loop
+    - name : 
+      image : images/pic/cow1.jpg
+      image_webp : images/pic/cow1..webp
+      categories : ["Animals"]
+      content : Velvet the Galloway cow grazing [July, 2017].
+      link : ""
+      
+    # gallery item loop
+    - name : 
+      image : images/backgrounds/hero-area.jpg
+      image_webp : images/backgrounds/hero-area.webp
+      categories : ["Animals", "Scenery"]
+      content : Five Tamworth pigs exploring.
+      link : ""
+    

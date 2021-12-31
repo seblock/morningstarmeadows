@@ -1,0 +1,22 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.featureAbout.feature.enable }}
+{{ with $data.featureAbout.feature }}
+{{"<!-- feature -->" | safeHTML}}
+<section class="section section-bg about-2 padding-0" id="feature">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-lg-12">
+				<div class="content-block">
+					<h2>{{ .title | markdownify }}</h2>
+					<p>{{ .content | markdownify }}</p>
+					<p>{{ .content2 | markdownify }}</p>
+					<p>{{ .content3 | markdownify }}</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+{{"<!-- /feature -->" | safeHTML}}
+{{ end }}
+{{ end }}

@@ -1,0 +1,13 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  # bg_image : "images/backgrounds/bg-white-wall.jpg"
+  # bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  bg_image : "images/backgrounds/bg-wood.jpg"
+  bg_image_webp : "images/backgrounds/bg-wood.webp"
+  title : "In-Stock Alerts & Special Offers"
+  content : 
+  button:
+    enable : true
+    label : "Join Our Mailing List"
+    link : "https://groups.io/g/morningstarmeadows/join"

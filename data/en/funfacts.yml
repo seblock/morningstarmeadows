@@ -1,0 +1,36 @@
+################################# funfacts ##################################
+funfacts:
+  enable : true
+  bg_image : "images/backgrounds/bg-wood.jpg"
+  bg_image_webp : "images/backgrounds/bg-wood.webp"
+  title: "Our Animals"
+  counter_item:
+    # counter item loop
+    - title : "Tamworth Pigs"
+      icon : "ti-heart" # themify icon pack : https://themify.me/themify-icons
+      count : "4"
+    
+    # counter item loop
+    - title : "Spanish Goats"
+      icon : "ti-crown" # themify icon pack : https://themify.me/themify-icons
+      count : "4"
+
+    # counter item loop
+    - title : "Galloway Cattle"
+      icon : "ti-cup" # themify icon pack : https://themify.me/themify-icons
+      count : "6"
+    
+    # counter item loop
+    - title : "Bourbon Red Turkeys"
+      icon : "ti-star" # themify icon pack : https://themify.me/themify-icons
+      count : "16"
+    
+    # counter item loop
+    - title : "Rhode Island Red Chickens"
+      icon : "ti-shine" # themify icon pack : https://themify.me/themify-icons
+      count : "20"
+
+    # counter item loop
+    - title : "Guinea Fowl"
+      icon : "ti-music-alt" # themify icon pack : https://themify.me/themify-icons
+      count : "20"

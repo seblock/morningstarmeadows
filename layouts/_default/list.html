@@ -1,0 +1,43 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+{{"<!-- Start Products Section -->" | safeHTML}}
+<section id="blog" class="section">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        {{"<!-- section title -->" | safeHTML}}
+        <div class="title text-center wow fadeInDown">
+          <h2>Browse<span class="color">
+              Products</span></h2>
+          <div class="textE">
+            <p>All products are sold directly to the customer from Morning Star Meadows Family Farm.</p>
+            <p>Please contact us if you are interested in purchasing or have any questions.</p>
+          </div>
+          <div class="border-meghna"></div>
+
+          <div class="prod">
+            <div class="prod-btns">
+            {{ range .Pages }}
+            <a href="{{ .Permalink }}" target="_blank"><div class="prod-btn">{{ .Title }}</div></a>
+            {{ end }}
+            </div>
+          </div>
+
+        </div>
+      </div>
+      {{"<!-- /section title -->" | safeHTML}}
+      {{ $paginator := .Paginate .Data.Pages }}
+      {{ range $paginator.Pages }}
+      {{ .Render "article" }}
+      {{ end }}
+      <div class="col-12">
+        {{ template "_internal/pagination.html" . }}
+      </div>
+    </div>
+  </div>
+</section>
+{{"<!-- /blog -->" | safeHTML}}
+
+{{ end }}

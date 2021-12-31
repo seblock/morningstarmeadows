@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-family.jpg
+  image_webp : images/about/about-family.webp
+  title : We’re A Family Farm
+  content : "Located in Northern Wisconsin, we are raising heritage breeds of cattle, goats, pigs and poultry to keep them from going extinct."
+  feature_item : 
+      # feature item loop
+    - title : Heritage Breeds
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : All livestock are heritage breeds, meaning they are at risk of extinction. We currently raise Galloway cattle, Tamworth pigs, Spanish goats, Clun Forest sheep, Bourbon Red Turkeys, Rhode Island Red chickens, and Guinea fowl.
+      
+      # feature item loop
+    - title : Pasture Raised
+      icon : ti-unlock # themify icon pack : https://themify.me/themify-icons
+      content : The cattle and sheep are grass fed and finished and the poultry and pigs are supplemented with non-GMO grains. No antibiotics or hormones are ever used. 
+
+      # feature item loop
+    - title : Rotational Grazing
+      icon : ti-loop # themify icon pack : https://themify.me/themify-icons
+      content : The livestock are all rotationally grazed through the growing season and graze large hay bales during the winter. The poultry always free range.
+
+      # feature item loop
+    - title : Animal Welfare
+      icon : ti-heart # themify icon pack : https://themify.me/themify-icons
+      content : All livestock are raised according to animal welfare approval standards. It’s healthier for the earth, it’s healthier for the animals and it’s healthier for you!

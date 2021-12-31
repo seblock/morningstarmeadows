@@ -1,0 +1,105 @@
+################################# Default configuration ###################
+baseURL = "https://seblock.github.io/morningstarmeadows"
+title = "Morning Star Meadows Family Farm"
+publishDir = "docs"
+
+# post pagination
+paginate = "12"
+
+# post excerpt
+summaryLength = "15"
+
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+
+# disable language
+disableLanguages = ['fr']
+
+############################# Plugins ##########################
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/lazy-load/lozad.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+
+################### English Navigation ########################
+[[Languages.en.menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "About"
+url = "/about"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "Products"
+url = "/products"
+weight = 3
+
+[[Languages.en.menu.main]]
+name = "Gallery"
+url = "/gallery"
+weight = 4
+
+[[Languages.en.menu.main]]
+name = "Contact"
+url = "/contact"
+weight = 7
+
+############################# Default Parameters ##########################
+[params]
+logo = "images/icon.png"
+
+# Meta data
+description = "We are a family farm raising heritage breeds of cattle, sheep, pigs and poultry to keep them from going extinct. Our products are organic and wide-ranging, from grass-fed beef to maple syrup to hand processed soap!"
+image = "images/backgrounds/hero-area.webp"
+ogimage = "images/backgrounds/hero-area.webp"
+
+# Google Analytics
+google_analytics_id = "" # Your ID
+
+# post share
+post_share = true
+
+# cookies
+[params.cookies]
+enable = false
+expire_days = 2
+
+############################# social icons ##########################
+[[params.social]]
+icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.facebook.com/MorningStarMeadowsFamilyFarmWI"
+
+################################ English Language ########################
+[Languages.en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+home = "Home"
+copyright = "Copyright &copy; 2021 Morning Star Meadows Family Farm"

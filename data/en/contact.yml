@@ -1,0 +1,28 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : All products are sold directly to the customer from Morning Star Meadows Family Farm. Please contact us if you are interested in purchasing or have any questions. We will get back to you as soon as possible!
+
+  # Contact details
+  contact_list:
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Wausau, Wisconsin, USA"
+      
+    # - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+    #   info : "Phone: 715-432-8665"
+      
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: morningstar_meadows@outlook.com"
+
+
+  # Contact form
+  contact_form:
+    enable : true
+    form_action : "#" #contact form works with https://formspree.io
+    name : "Your Name"
+    email : "Your Email"
+    subject : "Subject"
+    message : "Message"
+    submit : "Submit"

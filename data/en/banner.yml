@@ -1,0 +1,14 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/hero-area.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Morning Star Meadows"
+  subTitle: "Family Farm"
+  content : "We are a family farm raising heritage breeds of cattle, sheep, pigs and poultry to keep them from going extinct.
+  Our products are organic and wide-ranging, from grass-fed beef to maple syrup to hand processed soap!"
+  button:
+    enable : true
+    label : "View Our Products"
+    link : "/products"
