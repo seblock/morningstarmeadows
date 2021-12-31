@@ -3,11 +3,11 @@ Repository to hold the base files for static site generation of the https://morn
 
 # Technical Details
 Site was made using the following tools.
-- [Meghna](https://gohugo.io/) (static site generator)
+- [Hugo](https://gohugo.io/) (static site generator)
 - [Meghna](https://themes.gohugo.io/themes/meghna-hugo/) (Hugo theme)
 - Github (Hosting repository)
 - Github Pages (Deploying buildt website)
-- Forestry.io
+- [Forestry.io](https://forestry.io/) (CMS, for easy editing)
 
 # Step-By-Step Tutorial 
 > Documentation for future reference.
