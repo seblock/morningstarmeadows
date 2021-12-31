@@ -1,8 +1,7 @@
-############################### Alert ################################
+---
 alert:
-  enable : true
-  # icon : ti-bell # themify icon pack : https://themify.me/themify-icons
-  title: "Alerts & Special Offers" # alt = "Buy Now"
-  divider: "★" # alt = |, ✶, ★
-  content : "Grass-fed lamb in stock now!"
-  link : /products/lamb
+  enable: false
+  title: Alerts & Special Offers
+  divider: "★"
+  content: Grass-fed lamb in stock now!
+  link: "/products/lamb"
