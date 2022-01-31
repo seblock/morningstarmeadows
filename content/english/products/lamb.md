@@ -1,7 +1,6 @@
 ---
 title: "Grassfed Lamb"
-image_webp: images/pic/holder.webp
-image: images/pic/holder.jpg
+image: images/pic/sheep2.jpg
 description : "To buy this much lamb is much more economical, yet it can require additional freezer space and it is a larger initial financial investment in your health."
 ---
 

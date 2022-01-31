@@ -18,4 +18,11 @@ gallery:
       categories : ["Animals", "Scenery"]
       content : Five Tamworth pigs exploring.
       link : ""
+
+      # gallery item loop
+    - name : 
+      image : images/pic/guinea.jpg
+      categories : ["Animals", "Scenery"]
+      content : A flock of guinea fowl running.
+      link : ""
     

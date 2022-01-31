@@ -1,7 +1,6 @@
 ---
 title: "Free-Range Eggs"
-image_webp: images/pic/holder.webp
-image: images/pic/holder.jpg
+image: images/pic/chicken.jpg
 description : "We raise Rhode Island Red chickens, Bourbon Red turkeys, and Guinea fowl. They are fed non-GMO grains and supplement this with grass, insects and worms."
 ---
 
