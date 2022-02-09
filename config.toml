@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://seblock.github.io/morningstarmeadows"
+baseURL = "https://morningstarmeadows.farm"
 title = "Morning Star Meadows Family Farm"
 publishDir = "docs"
 
