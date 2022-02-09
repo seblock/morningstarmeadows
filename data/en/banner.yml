@@ -11,4 +11,4 @@ banner:
   button:
     enable : true
     label : "View Our Products"
-    link : "/products"
+    link : "products"
