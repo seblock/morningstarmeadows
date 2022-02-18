@@ -5,17 +5,17 @@ offering:
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos
   offering_item :
   - icon : ti-shopping-cart # themify icon pack : https://themify.me/themify-icons
-    url: /products
+    url: products
     title : Grassfed Meats
     content : Beef, lamb, and goat.
 
   - icon : ti-heart # themify icon pack : https://themify.me/themify-icons
-    url: /products
+    url: products
     title : Free-Range Poultry
     content : Chicken and turkey.
 
   - icon : ti-pie-chart # themify icon pack : https://themify.me/themify-icons
-    url: /products
+    url: products
     title : Homemade Goods
     content : Maple syrup, soap, and mineral.
 
