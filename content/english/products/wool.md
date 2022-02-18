@@ -1,7 +1,6 @@
 ---
 title: "Sheep Wool & Fleeces"
-image_webp: images/pic/holder.webp
-image: images/pic/holder.jpg
+image_webp: images/holder.webp
 description : "Our Clun Forest sheep are a heritage breed that is in danger of extinction."
 ---
 

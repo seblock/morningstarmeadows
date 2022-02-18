@@ -1,6 +1,6 @@
 ---
 title: "Free-Range Turkey"
-image: images/pic/turkey.jpg
+image_webp: images/holder.webp
 description : "Our Bourbon Red turkeys are a heritage breed that naturally hatch and are raised by their parents on our lush pasture."
 ---
 

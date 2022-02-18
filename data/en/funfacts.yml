@@ -1,8 +1,7 @@
 ################################# funfacts ##################################
 funfacts:
   enable : true
-  bg_image : "images/backgrounds/bg-wood.jpg"
-  bg_image_webp : "images/backgrounds/bg-wood.webp"
+  bg_image_webp : "images/siteSpecific/bg-wood.webp"
   title: "Our Animals"
   counter_item:
     # counter item loop

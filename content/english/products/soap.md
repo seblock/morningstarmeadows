@@ -1,6 +1,6 @@
 ---
 title: "Soap"
-image: images/pic/soap.jpg
+image_webp: images/holder.webp
 description : "Our soaps are made with the fat from the animals we raise on our farm, including tallow (from cattle) and lard (from pigs). They are very lightly scented and come in a variety of colors."
 ---
 

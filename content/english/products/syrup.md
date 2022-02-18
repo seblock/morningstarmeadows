@@ -1,6 +1,6 @@
 ---
 title: "Maple Syrup"
-image: images/pic/holder.jpg
+image_webp: images/holder.webp
 description : "This is meta description"
 ---
 

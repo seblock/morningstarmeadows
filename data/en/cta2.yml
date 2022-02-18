@@ -1,8 +1,7 @@
 ############################# call to action ##############################
 cta:
   enable : true
-  bg_image : "images/backgrounds/bg-wood.jpg"
-  bg_image_webp : "images/backgrounds/bg-wood.webp"
+  bg_image_webp : "images/siteSpecific/bg-wood.webp"
   title : "Our Story"
   content : 
   button:

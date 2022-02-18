@@ -1,8 +1,7 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-family.jpg
-  image_webp : images/about/about-family.webp
+  image_webp : images/siteSpecific/about-family.webp
   title : We’re A Family Farm
   content : "Located in Northern Wisconsin, we are raising heritage breeds of cattle, goats, pigs and poultry to keep them from going extinct."
   feature_item : 

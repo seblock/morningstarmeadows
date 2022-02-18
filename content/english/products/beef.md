@@ -1,7 +1,6 @@
 ---
 title: "Grassfed Beef"
-image_webp: images/pic/cow1.webp
-image: images/pic/cow1.jpg
+image_webp: images/holder.webp
 description : "To buy this much beef is much more economical, yet it can require additional freezer space and it is a larger initial financial investment in your health."
 ---
 

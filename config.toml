@@ -60,10 +60,10 @@ name = "Products"
 url = "/products"
 weight = 3
 
-[[Languages.en.menu.main]]
-name = "Gallery"
-url = "/gallery"
-weight = 4
+# [[Languages.en.menu.main]]
+# name = "Gallery"
+# url = "/gallery"
+# weight = 4
 
 [[Languages.en.menu.main]]
 name = "Contact"
@@ -72,12 +72,12 @@ weight = 5
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/icon.png"
+logo = "images/siteSpecific/icon.png"
 
 # Meta data
 description = "We are a family farm raising heritage breeds of cattle, sheep, pigs and poultry to keep them from going extinct. Our products are organic and wide-ranging, from grass-fed beef to maple syrup to hand processed soap!"
-image = "images/backgrounds/hero-area.webp"
-ogimage = "images/backgrounds/hero-area.webp"
+image = "images/siteSpecific/hero-area.webp"
+ogimage = "images/siteSpecific/hero-area.webp"
 
 # Google Analytics
 google_analytics_id = "" # Your ID
