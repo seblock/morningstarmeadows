@@ -1,6 +1,6 @@
 ---
 title: "Grassfed Goat"
-image_webp: images/holder.webp
+image_webp: images/goat.webp
 description : "This is meta description"
 ---
 

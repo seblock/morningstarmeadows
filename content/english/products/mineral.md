@@ -1,6 +1,6 @@
 ---
 title: "Mineral"
-image_webp: images/holder.webp
+image_webp: images/mineral.webp
 description : "MSM Gold Mineral Mix"
 ---
 
