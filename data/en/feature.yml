@@ -11,7 +11,7 @@ feature:
       content : All livestock are heritage breeds, meaning they are at risk of extinction. We currently raise Galloway cattle, Tamworth pigs, Spanish goats, Clun Forest sheep, Bourbon Red Turkeys, Rhode Island Red chickens, and Guinea fowl.
       
       # feature item loop
-    - title : Pasture Raised
+    - title : Grass-Fed/Pasture Raised
       icon : ti-unlock # themify icon pack : https://themify.me/themify-icons
       content : The cattle and sheep are grass fed and finished and the poultry and pigs are supplemented with non-GMO grains. No antibiotics or hormones are ever used. 
 
