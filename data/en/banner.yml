@@ -5,7 +5,7 @@ banner:
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Morning Star Meadows"
   subTitle: "Family Farm"
-  content : "We are a family farm raising heritage breeds of cattle, sheep, pigs and poultry to keep them from going extinct.
+  content : "We are a family farm raising heritage breeds of cattle, sheep, and pigs to keep them from going extinct.
   Our products are organic and wide-ranging, from grass-fed beef to maple syrup to hand processed soap!"
   button:
     enable : true
