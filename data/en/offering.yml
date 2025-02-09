@@ -7,7 +7,7 @@ offering:
   - icon : ti-shopping-cart # themify icon pack : https://themify.me/themify-icons
     url: products
     title : Grassfed Meats
-    content : Beef, lamb, and goat.
+    content : Beef and goat.
 
   - icon : ti-heart # themify icon pack : https://themify.me/themify-icons
     url: products
@@ -17,5 +17,5 @@ offering:
   - icon : ti-pie-chart # themify icon pack : https://themify.me/themify-icons
     url: products
     title : Homemade Goods
-    content : Maple syrup, soap, and mineral.
+    content : Maple syrup and soap.
 
