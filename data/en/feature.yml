@@ -8,12 +8,12 @@ feature:
       # feature item loop
     - title : Heritage Breeds
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : All livestock are heritage breeds, meaning they are at risk of extinction. We currently raise Galloway cattle, Tamworth pigs, Spanish goats, and Clun Forest sheep.
+      content : All livestock are heritage breeds, meaning they are at risk of extinction. We currently raise Galloway cattle, Tamworth pigs, Spanish goats, and Oberhasli goats.
       
       # feature item loop
     - title : Pasture Raised
       icon : ti-unlock # themify icon pack : https://themify.me/themify-icons
-      content : The cattle and sheep are grass fed and finished and the pigs are supplemented with non-GMO grains. No antibiotics or hormones are ever used. 
+      content : The cattle and goats are grass fed and finished and the pigs are supplemented with non-GMO grains. No antibiotics or hormones are ever used. 
 
       # feature item loop
     - title : Rotational Grazing
