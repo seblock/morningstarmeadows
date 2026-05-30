@@ -8,7 +8,7 @@ feature:
       # feature item loop
     - title : Heritage Breeds
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : All livestock are heritage breeds, meaning they are at risk of extinction. We currently raise Galloway cattle, Tamworth pigs, Spanish goats, and Oberhasli goats.
+      content : All livestock are heritage breeds, meaning they are at risk of extinction. We currently raise Dexter cattle, Tamworth pigs, Spanish goats, and Oberhasli goats.
       
       # feature item loop
     - title : Pasture Raised
