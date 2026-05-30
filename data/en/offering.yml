@@ -9,13 +9,19 @@ offering:
     title : Grassfed Meats
     content : Beef and goat.
 
+  # - icon : ti-heart # themify icon pack : https://themify.me/themify-icons
+  #   url: products
+  #   title : Pastured Meats
+  #   content : Pork.
+  
   - icon : ti-heart # themify icon pack : https://themify.me/themify-icons
     url: products
-    title : Pastured Meats
-    content : Pork.
+    title : Poultry Products
+    content : Chicken eggs.
+
 
   - icon : ti-pie-chart # themify icon pack : https://themify.me/themify-icons
     url: products
     title : Homemade Goods
-    content : Maple syrup and soap.
+    content : Maple syrup.
 

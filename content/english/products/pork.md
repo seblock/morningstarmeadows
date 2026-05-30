@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Pastured Pork"
 image_webp: images/pig.webp
 description : "To buy this much pork is much more economical, yet it can require additional freezer space and it is a larger initial financial investment in your health. "
